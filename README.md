@@ -8,4 +8,4 @@ In the first version, we will be abble to :
 
 In the second version, we add the possibilitie of :
 - recognize any language and use the application in the language that we choose
-
+- have a personalities answer for each question 
